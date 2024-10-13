@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a software developer and student driven by pas
 ```bash
 # Initializing...
 $ whoami
-> Sergio: A software developer passionate about clean code, scalable systems, and data sciece.
+> Sergio: A software, fullstak web developer passionate about clean code, scalable systems, and data sciece.
 
 # Skills:
-$ ls ~/skills/
+$ ls ~/skills
 > JavaScript TypeScript React Node.js Python Django Tailwind Prisma
 
 # Projects
