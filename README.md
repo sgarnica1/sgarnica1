@@ -1,6 +1,6 @@
 <h1> Hi, I'm Sergio <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40"/> </h1>
 
-Welcome to my GitHub profile! I'm a software developer and student driven by passion for learning new technologies and a love for crafting efficient solutions.
+Welcome to my GitHub profile! I'm a software engineer driven by passion for learning new technologies and a love for crafting efficient solutions.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a software developer and student driven by pas
 ```bash
 # Initializing...
 $ whoami
-> Sergio: A software, fullstak web developer passionate about clean code, scalable systems, and data sciece.
+> Sergio: A software engineer and fullstak web developer passionate about clean code, scalable systems, and data sciece.
 
 # Skills:
 $ ls ~/skills
